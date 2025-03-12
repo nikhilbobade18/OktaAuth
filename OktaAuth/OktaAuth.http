@@ -1,0 +1,6 @@
+@OktaAuth_HostAddress = http://localhost:5123
+
+GET {{OktaAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

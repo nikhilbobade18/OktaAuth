@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "PiaAm2IWcYYdG1UPcUW2N2JTTCxTojfJReE7A/HgqaS4uSopqV6EK1uBn6UKl7qtzqAaxC2vj9ydZMLmdtpzew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\OktaAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.13\\microsoft.aspnetcore.authentication.jwtbearer.8.0.13.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.bcl.memory\\9.0.0\\microsoft.bcl.memory.9.0.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.6.0\\microsoft.identitymodel.abstractions.8.6.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.6.0\\microsoft.identitymodel.jsonwebtokens.8.6.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.identitymodel.logging\\8.6.0\\microsoft.identitymodel.logging.8.6.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.identitymodel.protocols\\8.6.0\\microsoft.identitymodel.protocols.8.6.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\8.6.0\\microsoft.identitymodel.protocols.openidconnect.8.6.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.6.0\\microsoft.identitymodel.tokens.8.6.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\Z004KWZW\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.6.0\\system.identitymodel.tokens.jwt.8.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

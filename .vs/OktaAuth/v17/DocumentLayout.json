@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|c:\\users\\z004kwzw\\source\\repos\\oktaauth\\oktaauth\\okta\\oktajwtverificationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|solutionrelative:oktaauth\\okta\\oktajwtverificationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|c:\\users\\z004kwzw\\source\\repos\\oktaauth\\oktaauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|solutionrelative:oktaauth\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|c:\\users\\z004kwzw\\source\\repos\\oktaauth\\oktaauth\\okta\\oktajwtvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|solutionrelative:oktaauth\\okta\\oktajwtvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|c:\\users\\z004kwzw\\source\\repos\\oktaauth\\oktaauth\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|solutionrelative:oktaauth\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|c:\\users\\z004kwzw\\source\\repos\\oktaauth\\oktaauth\\okta\\ijwtvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A272C2FB-157F-4C0F-A843-C441A12B3BA4}|OktaAuth\\OktaAuth.csproj|solutionrelative:oktaauth\\okta\\ijwtvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "OktaAuth\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "OktaAuth\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:45:12.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\appsettings.json",
+              "RelativeDocumentMoniker": "OktaAuth\\appsettings.json",
+              "ToolTip": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\appsettings.json",
+              "RelativeToolTip": "OktaAuth\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-07T14:44:03.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OktaJwtVerificationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\Okta\\OktaJwtVerificationOptions.cs",
+              "RelativeDocumentMoniker": "OktaAuth\\Okta\\OktaJwtVerificationOptions.cs",
+              "ToolTip": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\Okta\\OktaJwtVerificationOptions.cs",
+              "RelativeToolTip": "OktaAuth\\Okta\\OktaJwtVerificationOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:43:59.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OktaJwtvalidation.cs",
+              "DocumentMoniker": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\Okta\\OktaJwtvalidation.cs",
+              "RelativeDocumentMoniker": "OktaAuth\\Okta\\OktaJwtvalidation.cs",
+              "ToolTip": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\Okta\\OktaJwtvalidation.cs",
+              "RelativeToolTip": "OktaAuth\\Okta\\OktaJwtvalidation.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:42:49.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IJwtValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\Okta\\IJwtValidator.cs",
+              "RelativeDocumentMoniker": "OktaAuth\\Okta\\IJwtValidator.cs",
+              "ToolTip": "C:\\Users\\Z004KWZW\\source\\repos\\OktaAuth\\OktaAuth\\Okta\\IJwtValidator.cs",
+              "RelativeToolTip": "OktaAuth\\Okta\\IJwtValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T14:42:19.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

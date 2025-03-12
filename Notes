@@ -1,0 +1,17 @@
+Okta
+
+- Client credential flow
+
+- The client credentials flow is a server-to-server flow that allows applications to request resources on behalf of itself rather than a user. 
+- The client credentials flow requires the client id and the client secret, and exchanges those for an access token.
+
+
+- Add the application into Okta aplications tab.
+- add atlease one scope.
+- add atlease one access policy and one rule.
+- add atleast one user and groups.
+
+- we need to send the client id and secret to the token url to get the token from Okta.
+- Then we need to pass this token as a bearer token in the subsequent request wich we want to request.
+- we need to validate the token in backend in .net core (check OktaJwtvalidation file in project)
+- if the token is valid, it will return the requested resource.
